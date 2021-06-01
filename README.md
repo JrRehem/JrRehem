@@ -5,8 +5,6 @@ Olá, me chamo Ruthemberg!
 
 - :mortar_board: Sou estudante de Análise e Desenvolvimento de Sistemas.
 
-<hr/>
-
 ## Sobre mim:
 
 - :heart: Amo estudar programação.
@@ -14,7 +12,6 @@ Olá, me chamo Ruthemberg!
 - :video_game: Gosto de jogar com amigos Call of Duty / Warzone, FIFA e jogos para celular.
 
 ## Linguagens:
-<hr/>
 
 ### :books: Estudando:
 
