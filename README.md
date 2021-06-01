@@ -27,3 +27,7 @@ Olá, me chamo Ruthemberg!
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+
+<hr/>
+<p align="left"> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JrRehem&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
