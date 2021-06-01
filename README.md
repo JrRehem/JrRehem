@@ -7,7 +7,7 @@ Olá, me chamo Ruthemberg!
 
 <hr/>
 
-Sobre mim:
+## Sobre mim:
 
 - :heart: Amo estudar programação.
 - :books: Gosto muito de ler HQ's, Mangá e livros de fantasia.
