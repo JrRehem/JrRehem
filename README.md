@@ -1,7 +1,10 @@
 # :satisfied: Sejam Bem-vindos a minha página no Github!
 
 
-Me chamo Ruthemberg, sou estudante de Análise e Desenvolvimento de Sistemas.
+Olá, me chamo Ruthemberg!
+
+- :notebook: Curso Análise e Desenvolvimento de Sistemas.
+
 <hr/>
 
 Sobre mim:
