@@ -3,7 +3,7 @@
 
 Olá, me chamo Ruthemberg!
 
-- :notebook: Curso Análise e Desenvolvimento de Sistemas.
+- :notebook: Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 <hr/>
 
