@@ -10,6 +10,12 @@ Olá, me chamo Ruthemberg!
 - :books: Gosto muito de ler HQ's, Mangá e livros de fantasia.
 - :video_game: Gosto de jogar com amigos Call of Duty / Warzone, FIFA e jogos para celular.
 
+## Onde me encontrar:
+
+<a href="https://www.linkedin.com/in/ruthemberg-rehem/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
 ## Linguagens:
 
 ### :books: Estudando:
@@ -30,10 +36,3 @@ Olá, me chamo Ruthemberg!
 <hr/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JrRehem&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Contato:
-
-<a href="https://www.linkedin.com/in/ruthemberg-rehem/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
