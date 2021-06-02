@@ -1,6 +1,5 @@
 # :satisfied: Sejam Bem-vindos a minha página no Github!
 
-
 Olá, me chamo Ruthemberg!
 
 - :mortar_board: Sou estudante de Análise e Desenvolvimento de Sistemas.
