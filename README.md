@@ -7,7 +7,7 @@ Olá, me chamo Ruthemberg!
 ## Sobre mim:
 
 - :heart: Amo estudar programação.
-- :books: Gosto muito de ler HQ's, Mangá e livros de fantasia.
+- :books: Gosto muito de ler HQ's, Mangá e livros de fantasia/romance e aventura.
 - :video_game: Gosto de jogar com amigos Call of Duty / Warzone, FIFA e jogos para celular.
 
 ## Linguagens:
